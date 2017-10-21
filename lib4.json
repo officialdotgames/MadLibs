@@ -1,0 +1,34 @@
+{
+  "title": "Romeo and Juliet",
+  "prompts": [
+	"NOUN (PLURAL)",
+	"PLACE",
+	"NOUN",
+	"NOUN (PLURAL)",
+	"NOUN",
+	"ADJECTIVE",
+	"VERB",
+	"NUMBER",
+	"ADJECTIVE",
+	"BODY PART",
+	"VERB"
+  ],
+  "lib": [
+	"Two [], both alike in dignity,",
+	"In fair [], where we lay our scene,",
+	"From ancient [] break to new mutiny,",
+	"Where civil blood makes civil hands unclean.",
+	"From forth the fatal loins of these two foes",
+	"A pair of star-cross'd [] take their life;",
+	"Whole misadventured piteous overthrows",
+	"Do with their [] bury their parents' strife.",
+	"The fearful passage of their [] love,",
+	"And the continuance of their parents' rage,",
+	"Which, but their children's end, nought could [],",
+	"Is now the [] hours' traffic of our stage;",
+	"The which if you with [] [] attend,",
+	"What here shall [], our toil shall strive to mend."
+  ]
+}
+
+{"title":"Romeo and Juliet","prompts":["NOUN (PLURAL)","PLACE","NOUN","NOUN (PLURAL)","NOUN","ADJECTIVE","VERB","NUMBER","ADJECTIVE","BODY PART","VERB"],"lib":["Two [], both alike in dignity,","In fair [], where we lay our scene,","From ancient [] break to new mutiny,","Where civil blood makes civil hands unclean.","From forth the fatal loins of these two foes","A pair of star-cross'd [] take their life;","Whole misadventured piteous overthrows","Do with their [] bury their parents' strife.","The fearful passage of their [] love,","And the continuance of their parents' rage,","Which, but their children's end, nought could [],","Is now the [] hours' traffic of our stage;","The which if you with [] [] attend,","What here shall [], our toil shall strive to mend."]}

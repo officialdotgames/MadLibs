@@ -1,0 +1,40 @@
+{
+  "title": "Battle of Rohan",
+  "prompts": [
+        "VERB",
+	"NOUN",
+	"VERB",
+	"NOUN",
+	"RELATIVE",
+	"PLACE",
+	"BODY PART",
+	"EMOTION",
+	"BODY PART",
+	"TIME PERIOD",
+	"ATTRIBUTE",
+	"NOUN",
+	"VERB",
+	"NOUN (PLURAL)",
+	"TIME PERIOD",
+	"NOUN (PLURAL)",
+	"NOUN",
+	"VERB ENDING IN 'ING'",
+	"VERB",
+	"ADJECTIVE",
+	"ADJECTIVE",
+	"VERB"
+   ],
+  "lib":[
+	"[] your [] - [] your []!",
+	"[] of [] - Rohan. . . my brothers!",
+	"I see in your [] the same [] that would take the [] of me.",
+	"The [] may come when the [] of [] fails;",
+	"when we [] our [] and break all bonds of fellowship;",
+	"but it is not this day - an [] of [] and shattered shields,",
+	"when the Age of [] come [] down - but it is not this day!!!",
+	"This day we []!",
+	"By all that you hold [] on this [] earth - I bit you []!"
+  ]
+}
+
+{"title":"Battle of Rohan","prompts":["VERB","NOUN","VERB","NOUN","RELATIVE","PLACE","BODY PART","EMOTION","BODY PART","TIME PERIOD","ATTRIBUTE","NOUN","VERB","NOUN (PLURAL)","TIME PERIOD","NOUN (PLURAL)","NOUN","VERB ENDING IN 'ING'","VERB","ADJECTIVE","ADJECTIVE","VERB"],"lib":["[] your [] - [] your []!","[] of [] - Rohan. . . my brothers!","I see in your [] the same [] that would take the [] of me.","The [] may come when the [] of [] fails;","when we [] our [] and break all bonds of fellowship;","but it is not this day - an [] of [] and shattered shields,","when the Age of [] come [] down - but it is not this day!!!","This day we []!","By all that you hold [] on this [] earth - I bit you []!"]}

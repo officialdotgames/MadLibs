@@ -1,0 +1,21 @@
+{
+  "title": "Be Kind",
+  "prompts": [
+	"NOUN",
+	"NOUN (PLURAL)",
+	"NOUN",
+	"PLACE",
+	"ADJECTIVE",
+	"NOUN"
+  ],
+  "lib": [
+	"Be kind to your []-footed []",
+	"For a duck may be somebody's [],",
+	"Be kind to your [] in []",
+	"Where the weather is always [].",
+	"You may think that this is the [],",
+	"Well it is."
+  ]
+}
+
+{"title":"Be Kind","prompts":["NOUN","NOUN (PLURAL)","NOUN","PLACE","ADJECTIVE","NOUN"],"lib":["Be kind to your []-footed []","For a duck may be somebody's [],","Be kind to your [] in []","Where the weather is always [].","You may think that this is the [],","Well it is."]}
